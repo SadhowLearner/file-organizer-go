@@ -6,8 +6,6 @@ A small, configurable file organizer written in Go. Use the built binary (organi
 - Move or copy files into target folders
 - Filter by extensions or patterns
 - Recursive directory processing
-- Dry-run and verbose modes for safe testing
-- Config file support (YAML/JSON) for repeatable rules
 
 ## Build (Windows)
 From the project root:
