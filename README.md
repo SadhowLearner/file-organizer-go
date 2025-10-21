@@ -1,6 +1,6 @@
 # File Organizer (Go)
 
-A small, configurable file organizer written in Go. Use the built binary (organizer or organizer.exe) to sort, move, or copy files from build outputs, downloads, or any folder into organized directories by extension, date, or custom rules.
+A small *file organizer* written in Go. Use the built binary (organizer or organizer.exe) to  move files from build outputs, downloads, or any folder into organized directories by extension.
 
 ## Features
 - Move or copy files into target folders
